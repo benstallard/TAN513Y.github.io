@@ -9,7 +9,7 @@ published: true
 <img src="https://github.com/benstallard/benstallard.github.io/blob/master/images/Other-python-icon.png?raw=true">
 <table>
   <tr>
-    <th="lb"Title></td>
+    <th class="lb">Title</th>
     <td>Turtle Lesson 1</td>
     <th class="lb">Date</th>
     <td>06/03/18</td>
