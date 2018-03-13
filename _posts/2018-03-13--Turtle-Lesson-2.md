@@ -6,6 +6,7 @@ permalink: /-turtle-lesson-2/
 source-id: 1gd3FZ9aGJQiVAkS1oztdk7pP4LshFhoOy8Dju0IeTeE
 published: true
 ---
+<img src="https://github.com/benstallard/benstallard.github.io/blob/master/images/Other-python-icon.png?raw=true">
 <table>
   <tr>
     <td>Title</td>
