@@ -6,6 +6,7 @@ permalink: /carrying-on-with-python/
 source-id: 1kT6u_Rvp_lwH9woxNTOnePyPmfBO2AdmSsELFDhPLgg
 published: true
 ---
+<img src="https://github.com/benstallard/benstallard.github.io/blob/master/images/Other-python-icon.png?raw=true">
 <table>
   <tr>
     <td>Title</td>
@@ -44,7 +45,11 @@ published: true
     <td>Python is used everyday, you may not realise it, but many video games are created using python. Python is a programming language. To learn this language, we are using a website called repl.it.
 Today was our third lesson use turtle and I feel like I have improved alot. Some people carried on with turtle but I went on to making a conversation with python which went very well.
 Some of the code looked like this:
-years = input("How old are you this year? \n")seconds = years * 365 * 24 * 60 * 60print "Oh my! You will be", seconds, "seconds old on your birthday!!"
+years = input("How old are you this year? \n")
+seconds = years * 365 * 24 * 60 * 60
+print "Oh my! You will be", seconds, "seconds old on your birthday!!"
+      
+      <a href="https://benstallard.github.io/carrying-on-with-python/"> <p class="b">Click here for a suprise </p> </a></td>
  </td>
   </tr>
   <tr>
