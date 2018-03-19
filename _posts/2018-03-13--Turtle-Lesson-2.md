@@ -47,7 +47,7 @@ Today was our second lesson use turtle and I feel like I have made good progress
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on?
-    <a href="https://benstallard.github.io/turtle-lesson-1/"> <p class="b">Here </p> </a></td>
+    <a href="https://benstallard.github.io/turtle-lesson-1/"> <p class="b">Click here for a suprise </p> </a></td>
   </tr>
   <tr>
     <td>There are not really any habits I need to work on apart from learning how to speak properly as I have not yet um mastered the skill to um not say "um" before every word.</td>
