@@ -46,7 +46,8 @@ published: true
 Today was our second lesson use turtle and I feel like I have made good progress. I can now code in turtle python to write my name in any colour I want. Also I have found there is nearly an infinite amount of things such as turtle.write,turtle.color,turtle.turtle,nearly anything you could possibly think of.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <td>What limited my learning? Which habits do I need to work on?
+    <a href="https://benstallard.github.io/turtle-lesson-1/"> <p class="b">Here </p> </a></td>
   </tr>
   <tr>
     <td>There are not really any habits I need to work on apart from learning how to speak properly as I have not yet um mastered the skill to um not say "um" before every word.</td>
